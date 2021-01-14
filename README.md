@@ -1,6 +1,17 @@
 ### Hola! I'm JITESH SINGH😇
 
 - 🔭 I’m currently working on Flutter
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=er-jrsingh&label=Profile%20views&color=0e75b6&style=flat" alt="er-jrsingh" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=er-jrsingh" alt="er-jrsingh" /></a> </p>
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-jrsingh&show_icons=true&locale=en" alt="er-jrsingh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=er-jrsingh&" alt="er-jrsingh" /></p>
+
 
 <!--
 **Er-Jrsingh/Er-Jrsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
