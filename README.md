@@ -1,10 +1,7 @@
 ### Hola! I'm JITESH SINGH
 
-<h3 align="center"> Technology Enthusiast </h3>
 
-
-
-
+<h1 align="center"> Technology Enthusiast </h1>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=er-jrsingh&show_icons=true&locale=en" alt="er-jrsingh" /></p>
